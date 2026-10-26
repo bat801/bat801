@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/9Dk4MhcbdM9kNwNbrI/giphy.gif" width="150"/>
+    <img src="https://images.openai.com/static-rsc-4/-EolHHc7zQgEaqUpLOyBDzbMJEShALlSh750mW8PjDZeMHlRiOjcDW5aOBwVGC4zfGPS1KOGSVKXlmHZ-GRdEjs0-Z5G-5vzpzz9L7hkGOWOl7BCwEc0jZa9sdRQ5P5FRbJUAA6SS-V0gz9FlvKLf4hddgUnXf8-tB8PP61zR-Db9gUeu7UAbE60khMNAeJr?purpose=fullsize" width="500"/>
     <div id="social_badges" style="margin-top: 15px;">
         <a href="https://github.com/bat801">
             <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/GitHub-bat801-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
