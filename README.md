@@ -4,10 +4,10 @@
         <a href="https://github.com/bat801">
             <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/GitHub-bat801-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
-        <a href="https://t.me/ВАШ_ТЕЛЕГРАМ">
+        <a href="https://t.me/bat801_N">
             <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
         </a>
-        <a href="mailto:ВАШ_EMAIL">
+        <a href="mailto:bat20039@gmail.com">
             <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
         </a>
     </div>
